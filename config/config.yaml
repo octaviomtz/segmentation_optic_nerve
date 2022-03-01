@@ -1,0 +1,4 @@
+model: mobilenet_v2
+epochs: 1
+BATCHSIZE: 4
+LR: .01
